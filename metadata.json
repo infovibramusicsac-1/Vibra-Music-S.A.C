@@ -1,0 +1,8 @@
+{
+  "name": "Remix Vibra Marketing OS + Short Video Factory",
+  "description": "Sistema operativo de marketing y estudio de ensamblaje vertical 9:16 para Vibra Music S.A.C.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
